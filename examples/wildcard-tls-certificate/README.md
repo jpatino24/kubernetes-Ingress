@@ -25,7 +25,7 @@ Normalmente, el certificado es para un subdominio (Por ejemplo *.example.com), m
 
 2. Contar con los repositorios de [helm](https://helm.sh/docs/using_helm/) para el despliegue de la Imagenes de Kubernetes.
 
-3. Inicie el Ingress Crontroller cn el argumento de line de comandos wildcard-tls-secret establecido en un secreto TLS con un wildcard cert/key. 
+3. Inicie el Ingress Crontroller con el argumento de linea de comandos wildcard-tls-secret establecido en un secreto TLS con un wildcard cert/key. 
 
    ##### Ejemplo:
 
